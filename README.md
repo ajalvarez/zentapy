@@ -11,7 +11,7 @@ En esta cápsula de conocimiento aprenderás:
 * Los objetos lista, tupla y diccionario, junto con sus principales métodos.
 * La lectura y escritura de archivos con la función open.
 * Una breve introducción a las librerías numpy y matplotlib, utilizadas para aumentar la riqueza de los ejempl[os.
-
-[Hoja de Jupyter](https://github.com/ajalvarez/zentapython/blob/master/Clase_1.ipynb)
+  * [Hoja de Jupyter de la clase 1](https://github.com/ajalvarez/zentapython/blob/master/Clase_1.ipynb)
+  * [Lista de problemas](http://www.google.com)
 
 
