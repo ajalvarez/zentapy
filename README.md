@@ -1,4 +1,4 @@
-# ZentaPython: Un seminario de Python en cápsulas
+# ZentaPy: Un seminario de Python en cápsulas
 ![Zenta Improve Knowledge](https://raw.githubusercontent.com/ajalvarez/iaparahumanos/master/ZiK.png)
 
 #### Preparado por:
